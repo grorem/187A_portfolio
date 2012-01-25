@@ -1,15 +1,40 @@
+#body{
+background: url('../images/dark_wood.png') ;
+padding-top: 40px;
+}
+
+
+
 #banner{
 width: 984px;
 background: url('../images/banner_actual.png') ;
 height: 230px;
 }
 
-.tabs .active a {
-color: black;
-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
-background-color: #white;
+#Work{
+border-width: 1px 0px 1px 0px;
+border-style: solid;
+border-color: white;
+
 
 }
+
+
+
+.container1{
+background=black
+
+
+}
+
+
+.container{
+
+
+
+}
+
+
 
 
 #banner-nav {
@@ -27,10 +52,10 @@ background: url('../images/bannernav.png');
 width: 984px;
 text-align: left;
 position: relative;
-background: #146273
+
 border-width: 1px 1px 1px 1px;
 border-style: solid;
-border-color: #146273;
+border-color: white;
 }
 
 
@@ -38,18 +63,27 @@ border-color: #146273;
 width: 984px;
 height: 30px;
 text-align: right;
-background-color: #146273;
+background-color: #6b100f;
 margin-top: 0px;
 padding-bottom: 1px;
 }
 
 
+h2{
+color: white;
+}
 
+#stuffs{width: 984px;
+background: url('../images/grid.png');
+border-width: 1px 1px 1px 1px;
+border-style: solid;
+border-color: white; 
+}
 
 
 
 #content{
-background-color: green;
+background-color: url('../images/dark_wood.png');
 
 
 }
@@ -65,5 +99,14 @@ background: url('../images/footer1.png');
 
 }
 
+.footer_text{
+font-size:20px;
+color: white;
+text-align: center;
+font-style: helvetica;
+border-width: 1px 1px 1px 1px;
+border-style: solid;
+border-color: white;
+}
 
 
