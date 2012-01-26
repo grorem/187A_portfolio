@@ -1318,7 +1318,7 @@ table .headerSortUp.purple, table .headerSortDown.purple {
 .topbar h3 a:hover, .topbar .brand:hover, .topbar ul .active > a {
   background-color: #333;
   background-color: rgba(255, 255, 255, 0.05);
-  color: red;
+  color: #931216;
   text-decoration: none;
 }
 .topbar h3 {
@@ -1329,7 +1329,7 @@ table .headerSortUp.purple, table .headerSortDown.purple {
   display: block;
   padding: 8px 20px 12px;
   margin-left: -20px;
-  color: red;
+  color: #be1216;
   font-size: 20px;
   font-weight: 200;
   line-height: 1;
@@ -1468,7 +1468,7 @@ table .headerSortUp.purple, table .headerSortDown.purple {
 .nav .menu-dropdown,
 .topbar div > ul .dropdown-menu,
 .nav .dropdown-menu {
-  background-color: #333;
+  background-color: #146273;
 }
 .topbar div > ul .menu-dropdown a.menu,
 .nav .menu-dropdown a.menu,
@@ -1478,7 +1478,7 @@ table .headerSortUp.purple, table .headerSortDown.purple {
 .nav .menu-dropdown .dropdown-toggle,
 .topbar div > ul .dropdown-menu .dropdown-toggle,
 .nav .dropdown-menu .dropdown-toggle {
-  color: #ffffff;
+  color: white;
 }
 .topbar div > ul .menu-dropdown a.menu.open,
 .nav .menu-dropdown a.menu.open,
@@ -1525,7 +1525,7 @@ table .headerSortUp.purple, table .headerSortDown.purple {
 .topbar div > ul .dropdown-menu .divider,
 .nav .dropdown-menu .divider {
   background-color: #222;
-  border-color: #444;
+  border-color: white;
 }
 .topbar ul .menu-dropdown li a, .topbar ul .dropdown-menu li a {
   padding: 4px 15px;
